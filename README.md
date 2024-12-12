@@ -1,2 +1,2 @@
 # EzMov
-A Movie Media Player
+Movie Media Player for Windows
